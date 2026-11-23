@@ -1,6 +1,7 @@
 # QuickDrop
 
 **Share files between any two devices with a QR code. No accounts, no app to install.**
+
 🔗 **Live demo:** [https://quickdrop.example.com](https://quickdrop2-app-latest.onrender.com/)
 
 QuickDrop works PC → Mobile, Mobile → PC, Mobile → Mobile and PC → PC. The sender uploads files, gets a QR code, and the receiver scans it and downloads. The two devices do **not** need to be on the same network.
