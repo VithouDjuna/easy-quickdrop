@@ -15,9 +15,9 @@ QuickDrop works PC → Mobile, Mobile → PC, Mobile → Mobile and PC → PC. T
     <th align="center">3. Receive: scan or paste the link</th>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/home.png" alt="Home page" width="260"></td>
-    <td align="center"><img src="docs/screenshots/qr-code.png" alt="Sender page showing the QR code, expiry timer and file list" width="260"></td>
-    <td align="center"><img src="docs/screenshots/receive.png" alt="Receive page with Scan QR code button and paste-link box" width="260"></td>
+    <td align="center"><img src="home.png" alt="Home page" width="260"></td>
+    <td align="center"><img src="qr-code.png" alt="Sender page showing the QR code, expiry timer and file list" width="260"></td>
+    <td align="center"><img src="receive.png" alt="Receive page with Scan QR code button and paste-link box" width="260"></td>
   </tr>
 </table>
 
